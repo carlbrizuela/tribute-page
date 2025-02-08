@@ -1,0 +1,56 @@
+body{
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main{
+    padding: 10px;
+}
+
+#img-div{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.764);
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+#image{
+    width: 75%;
+    height: 50%;
+    border-radius: 2px;
+}
+
+#title{
+    text-align: center;
+    font-size: xx-large;
+    margin: 0px 10px 10px 10px;
+}
+
+#img-caption{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#tribute, #article{
+    margin-top: 10px;
+    background-color: rgba(255, 255, 255, 0.764);
+    padding: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+#tribute-info{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+#credits{
+    color: rgb(90, 90, 90);
+    font-style: italic;
+}
